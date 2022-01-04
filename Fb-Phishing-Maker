@@ -138,9 +138,9 @@ read -p " Please choose an option: " option
 		clear
 		echo ""
 		echo "========================="
-                echo -e "\e[91m Wrong Selection! "
+                echo -e "\e[91m Wrong Selectio
 		echo "========================="
-		sleep 4
+		sleep 
 		exit
 	fi
 exit
